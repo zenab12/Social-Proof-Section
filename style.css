@@ -1,4 +1,4 @@
-   @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;600;700&family=Outfit:wght@300;400;600&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;600;700&family=Outfit:wght@300;400;600&display=swap');
   
       :root
       {
@@ -227,7 +227,7 @@
       text-align: center;
     }
 
-    .rating ul {display: grid;}
+    .rating ul {display: grid;place-items: center}
     .rating ul li 
     {
       width:90%;
@@ -242,6 +242,7 @@
      grid-template-columns: 1fr;
      margin-top: 0px;
      padding: 0px;
+
 
     }
       .comments li 
@@ -318,6 +319,9 @@
     {
      width: 70%;
     }
+
+    .rating ul {display: grid;place-items: center}
+
     }
     @media(min-width: 250px) and (max-width: 605px)
        
@@ -327,4 +331,3 @@
      width: 80%;
     }
 }
-
