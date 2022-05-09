@@ -241,6 +241,8 @@
     {
      grid-template-columns: 1fr;
      margin-top: 0px;
+     padding: 0px;
+
     }
       .comments li 
     {
@@ -309,6 +311,8 @@
     {
      grid-template-columns: 1fr;
      margin-top: 0px;
+     padding: 0px;
+
     }
       .comments li 
     {
@@ -320,7 +324,7 @@
     {
      .comments li 
     {
-     width: 90%;
+     width: 80%;
     }
 }
 
