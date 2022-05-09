@@ -16,10 +16,10 @@
       }
       body {
       font-family: 'League Spartan', sans-serif;
-      padding-top: 60px;
+      padding-top: 50px;
       position: absolute;/*Before and after attributes for html take position relative so we put body with position absolutes*/
       z-index: 2;
-      top: -30px;
+      top: 0px;
       }
       body::-webkit-scrollbar-track {
       background: var(--Very-Dark-Magenta);
@@ -82,7 +82,7 @@
     .rating h1
     {
       color: var(--Very-Dark-Magenta);
-      font-size: 45px;
+      font-size: 50px;
       line-height: 45px;
     }
     .rating .details p
