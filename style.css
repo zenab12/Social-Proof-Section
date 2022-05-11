@@ -166,7 +166,7 @@
     li figure{display: flex;flex-direction: row;flex-wrap: wrap;justify-content: flex-start;align-items: center;margin: 10px}
     li figure figcaption{padding-left:25px ;}
     li figure img{width: 40px;border-radius: 50%;}
-    li figure h3{color: var(--White);font-weight: 500;}
+    li figure h2{color: var(--White);font-weight: 500;}
     li figure figcaption p{color: var(--Soft-Pink);font-weight: 400;line-height: 20px;margin-top: -10px}
 
     .attribution 
