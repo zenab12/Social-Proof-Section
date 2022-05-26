@@ -8,11 +8,9 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -20,8 +18,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 
 ### Screenshot
+![zenab12 github io_Social-Proof-Section_(Nest Hub Max)](https://user-images.githubusercontent.com/78083890/170581354-904d64ab-4af8-4697-9661-4ae91cfb3c52.png)
 
-![zenab12 github io_NFT_Card_Challenge_(Nest Hub Max)](https://user-images.githubusercontent.com/78083890/170306728-a8b8a076-c2e1-455b-83cc-5bdd2e05f930.png)
 
 ### Links
 
@@ -36,8 +34,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 - CSS custom properties
 - Flexbox(Responsive)
 - grid Template
-
-
+- media query
 
 ### Continued development
 I will use flexbox and grid template in comming Challenges with Allah willing  in professional way.
