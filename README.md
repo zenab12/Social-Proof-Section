@@ -23,7 +23,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [FrontMentor]([https://www.frontendmentor.io/solutions/responsive-nft-card-using-flexbox-Hk-qCFu8c](https://www.frontendmentor.io/solutions/responsive-social-proof-section-using-grid-SyW4J9uIq)
+- Solution URL: [FrontMentor](https://www.frontendmentor.io/solutions/responsive-nft-card-using-flexbox-Hk-qCFu8c](https://www.frontendmentor.io/solutions/responsive-social-proof-section-using-grid-SyW4J9uIq)
 - Live Site URL: [Github Pages](https://zenab12.github.io/Social-Proof-Section/)
 
 ## My process
